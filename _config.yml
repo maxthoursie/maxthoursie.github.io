@@ -1,3 +1,4 @@
 name: Max Thoursie - Personal tech blog
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:title
